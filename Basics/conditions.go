@@ -2,6 +2,9 @@ package main
 
 import "fmt"
 
+//if <statement> {function}
+//else if
+
 func main() {
 	num := 3
 	if num > 0 {
