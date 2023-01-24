@@ -1,6 +1,10 @@
 /*
 OPTIMIZATION OF EXECUTABLE IN GOLANG
 
+Debug Symbols (information about debug and etc.)
+
+-ldflags
+
 
 */
 

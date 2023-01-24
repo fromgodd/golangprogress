@@ -37,10 +37,22 @@ num := 3 + 4i //complex128
 num := byte('a') (alias for uint8)
 
 
+Get the type
+fmt.Printf("%T\n", name)
+
+%T - Shows type of variable (needs Printf)
+
+TODO: *CHECK GO FMT LIBRARY FOR MORE*
+
 */
 
 package main
 
-func main() {
+import "fmt"
 
+func main() {
+	var name = "Alex"
+	var age = 12
+	fmt.Println(name, age)
+	fmt.Printf("%T %T\n", name, age)
 }
