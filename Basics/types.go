@@ -53,6 +53,7 @@ import "fmt"
 func main() {
 	var name = "Alex"
 	var age = 12
-	fmt.Println(name, age)
-	fmt.Printf("%T %T\n", name, age)
+	var isCool = false //bool type
+	fmt.Println(name, age, isCool)
+	fmt.Printf("%T %T %T\n", name, age, isCool)
 }
