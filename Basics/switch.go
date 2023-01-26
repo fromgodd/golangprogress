@@ -38,7 +38,17 @@ func main() {
 		}
 
 	*/
-	//TODO: CHECK FALLTHROUGH
+	// switch {
+	// case a > 1:
+	// 	fmt.Println("a is higher than 0")
+
+	// case a == 1:
+	// 	fmt.Println("a is 1")
+	// 	fallthrough
+	// case a < 10:
+	// 	fmt.Println("a is lower than 10")
+	// }
+
 	number := 2
 	switch {
 	case number > 5:
