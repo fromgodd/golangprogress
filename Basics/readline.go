@@ -1,5 +1,5 @@
 //Read line by scan
-//Sprint command to convert int to string
+//fmt.Scan(&blabla) - & is pointer
 
 package main
 

@@ -2,8 +2,8 @@ package main
 
 import "fmt"
 
-//if <statement> {function}
-//else if
+//if <blabla> {function}
+//else if <blabla> == blabla { blabla }
 
 func main() {
 	num := 3

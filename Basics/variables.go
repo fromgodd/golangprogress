@@ -6,7 +6,8 @@ func main() {
 	fmt.Println("Variables")
 
 	//Vars
-	//var "var_name" type
+	//var "var_name" type = blabla
+	//blabla:=012345
 
 	//String variable
 

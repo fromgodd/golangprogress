@@ -5,8 +5,13 @@ Debug Symbols (information about debug and etc.)
 
 -ldflags
 
+here I used:
+go build --ldflags "-s -w" optimization.go
+
 
 */
+
+//test project
 
 package main
 
